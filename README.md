@@ -1,3 +1,6 @@
+![Banner](https://blob.gifcities.org/gifcities/7MTUMIRUAPCAKJNELUXNZJVSOO5CAAHM.gif)
+
+
 hii :P 👋
 
 i'm yuri (or (y)yrod), and i'm currently learning programming. i have some experimental projects here, but they're not so well organized yet. D:
@@ -22,5 +25,10 @@ yeah, i think that's it! have a good day! :3
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Dog](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg4dzFiNWo0YWEyYmdxNG9pN3N0bXN3dGQ5aTZvOWZyazRtYTNnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7Nlpl4Qsd7jol7Wb/giphy.gif)
+![Footer](https://blob.gifcities.org/gifcities/ITONSI5URNAQQZ7JYVLVBDUIZTFOK7AP.gif)
+
+<br>
+<br>
+
+![Dog](https://media.tenor.com/x1QOy0SBJW8AAAAi/toby-fox.gif)
 
