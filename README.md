@@ -3,9 +3,9 @@
 
 hii :P 👋
 
-i'm yuri (or (y)yrod), and i'm currently learning programming. i have some experimental projects here, but they're not so well organized yet. D:
+i'm yuri (or (y)yrod), and i'm currently learning computer science. i have some experimental projects here, but they're not so well done. D:
 you probably came here because of my wallpaper repository, so for your convenience, i pinned it below! 
-
+* * *
 here are some things i work with:
   - java
   - c/c++ (we don't talk about c#)
