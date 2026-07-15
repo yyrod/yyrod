@@ -15,7 +15,7 @@ here are some things i work with:
   - linux
   - server admin & configuration
 
-yeah, i think that's it! have a good day! :3
+yeah, i think that's it! have a good day! :p
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
